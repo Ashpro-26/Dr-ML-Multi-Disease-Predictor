@@ -1,0 +1,179 @@
+2026-07-24 15:00:25,547 | INFO | Starting Model Training:
+2026-07-24 15:00:25,606 | INFO | Dataset Loaded with Shape:(768, 9)
+2026-07-24 15:00:26,804 | INFO | Train Shape: (652, 8), Test Shape: (116, 8)
+
+TypeError: unsupported operand type(s) for ** or pow(): 'int' and 'dict'
+2026-07-24 15:01:52,792 | INFO | Starting Model Training:
+2026-07-24 15:01:52,820 | INFO | Dataset Loaded with Shape:(768, 9)
+2026-07-24 15:01:53,248 | INFO | Train Shape: (652, 8), Test Shape: (116, 8)
+2026-07-24 15:01:53,319 | INFO | Model Training Completed
+2026-07-24 15:01:53,400 | INFO | Train Accuracy:0.8175Recall Score:0.8509F1:0.7653
+2026-07-24 15:01:53,414 | INFO | Test Accuracy:0.7500Recall Score:0.7750F1:0.6813
+2026-07-24 15:01:53,594 | INFO | Diabetes Training Completed.
+2026-07-24 15:04:40,019 | INFO | Starting Model Training:
+2026-07-24 15:04:40,055 | INFO | Dataset Loaded with Shape:(768, 9)
+2026-07-24 15:04:40,427 | INFO | Train Shape: (652, 8), Test Shape: (116, 8)
+2026-07-24 15:04:40,501 | INFO | Model Training Completed
+2026-07-24 15:04:40,602 | INFO | Train Accuracy:0.8175Recall Score:0.8509F1:0.7653
+2026-07-24 15:04:40,624 | INFO | Test Accuracy:0.7500Recall Score:0.7750F1:0.6813
+2026-07-24 15:04:40,798 | INFO | Diabetes Training Completed.
+2026-07-24 15:12:54,172 | INFO | Starting Model Training:
+2026-07-24 15:12:54,226 | INFO | Dataset Loaded with Shape:(768, 9)
+2026-07-24 15:12:54,654 | INFO | Train Shape: (652, 8), Test Shape: (116, 8)
+2026-07-24 15:12:54,732 | INFO | Model Training Completed
+2026-07-24 15:12:54,985 | INFO | Train Accuracy:0.8175Recall Score:0.8509F1:0.7653
+2026-07-24 15:12:55,042 | INFO | Test Accuracy:0.7500Recall Score:0.7750F1:0.6813
+2026-07-24 15:12:55,103 | INFO | Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.80      0.85       424
+           1       0.70      0.85      0.77       228
+
+    accuracy                           0.82       652
+   macro avg       0.80      0.83      0.81       652
+weighted avg       0.83      0.82      0.82       652
+
+2026-07-24 15:12:55,178 | INFO | Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.74      0.79        76
+           1       0.61      0.78      0.68        40
+
+    accuracy                           0.75       116
+   macro avg       0.73      0.76      0.74       116
+weighted avg       0.77      0.75      0.76       116
+
+2026-07-24 15:12:55,262 | INFO | Model Saved at: C:\Users\ashutosh.prakash\Documents\GitHub\Dr-ML-Multi-Disease-Predictor\model_dir\heart_disease_prediction_pipeline.joblib
+2026-07-24 15:12:55,273 | INFO | Diabetes Training Completed.
+2026-07-24 15:16:20,245 | INFO | Starting Model Training:
+2026-07-24 15:16:20,273 | INFO | Dataset Loaded with Shape:(768, 9)
+2026-07-24 15:16:20,648 | INFO | Train Shape: (652, 8), Test Shape: (116, 8)
+2026-07-24 15:16:20,723 | INFO | Model Training Completed
+2026-07-24 15:16:20,820 | INFO | Train Accuracy:0.8175Recall Score:0.8509F1:0.7653
+2026-07-24 15:16:20,832 | INFO | Test Accuracy:0.7500Recall Score:0.7750F1:0.6813
+2026-07-24 15:16:20,859 | INFO | Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.80      0.85       424
+           1       0.70      0.85      0.77       228
+
+    accuracy                           0.82       652
+   macro avg       0.80      0.83      0.81       652
+weighted avg       0.83      0.82      0.82       652
+
+2026-07-24 15:16:20,889 | INFO | Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.74      0.79        76
+           1       0.61      0.78      0.68        40
+
+    accuracy                           0.75       116
+   macro avg       0.73      0.76      0.74       116
+weighted avg       0.77      0.75      0.76       116
+
+2026-07-24 15:16:20,905 | INFO | Model Saved at: C:\Users\ashutosh.prakash\Documents\GitHub\Dr-ML-Multi-Disease-Predictor\model_dir\heart_disease_prediction_pipeline.joblib
+2026-07-24 15:16:20,905 | INFO | Diabetes Training Completed.
+2026-07-24 16:02:09,608 | INFO | Loading Trained Models...
+2026-07-24 16:05:35,953 | INFO | Loading Trained Models...
+2026-07-24 16:08:49,482 | INFO | Starting Model Training:
+2026-07-24 16:08:49,517 | INFO | Dataset Loaded with Shape:(768, 9)
+2026-07-24 16:08:49,810 | INFO | Train Shape: (652, 8), Test Shape: (116, 8)
+2026-07-24 16:08:49,860 | INFO | Model Training Completed
+2026-07-24 16:08:49,933 | INFO | Train Accuracy:0.8175Recall Score:0.8509F1:0.7653
+2026-07-24 16:08:49,947 | INFO | Test Accuracy:0.7500Recall Score:0.7750F1:0.6813
+2026-07-24 16:08:49,967 | INFO | Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.80      0.85       424
+           1       0.70      0.85      0.77       228
+
+    accuracy                           0.82       652
+   macro avg       0.80      0.83      0.81       652
+weighted avg       0.83      0.82      0.82       652
+
+2026-07-24 16:08:49,981 | INFO | Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.74      0.79        76
+           1       0.61      0.78      0.68        40
+
+    accuracy                           0.75       116
+   macro avg       0.73      0.76      0.74       116
+weighted avg       0.77      0.75      0.76       116
+
+2026-07-24 16:08:49,992 | INFO | Model Saved at: C:\Users\ashutosh.prakash\Documents\GitHub\Dr-ML-Multi-Disease-Predictor\model_dir\diabetes_prediction_pipeline.joblib
+2026-07-24 16:08:49,993 | INFO | Diabetes Training Completed.
+2026-07-24 16:09:11,151 | INFO | Loading Trained Models...
+2026-07-24 16:09:14,785 | INFO | Models Loaded Successfully.
+2026-07-24 16:14:32,795 | INFO | Starting Model Training:
+2026-07-24 16:14:32,933 | INFO | Dataset Loaded with Shape:(768, 9)
+2026-07-24 16:14:33,214 | INFO | Train Shape: (652, 8), Test Shape: (116, 8)
+2026-07-24 16:14:33,392 | INFO | Model Training Completed
+2026-07-24 16:14:33,471 | INFO | Train Accuracy:0.8175Recall Score:0.8509F1:0.7653
+2026-07-24 16:14:33,490 | INFO | Test Accuracy:0.7500Recall Score:0.7750F1:0.6813
+2026-07-24 16:14:33,507 | INFO | Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.80      0.85       424
+           1       0.70      0.85      0.77       228
+
+    accuracy                           0.82       652
+   macro avg       0.80      0.83      0.81       652
+weighted avg       0.83      0.82      0.82       652
+
+2026-07-24 16:14:33,570 | INFO | Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.74      0.79        76
+           1       0.61      0.78      0.68        40
+
+    accuracy                           0.75       116
+   macro avg       0.73      0.76      0.74       116
+weighted avg       0.77      0.75      0.76       116
+
+2026-07-24 16:14:33,638 | INFO | Model Saved at: C:\Users\ashutosh.prakash\Documents\GitHub\Dr-ML-Multi-Disease-Predictor\model_dir\diabetes_prediction_pipeline.joblib
+2026-07-24 16:14:33,639 | INFO | Diabetes Training Completed.
+2026-07-24 16:15:41,554 | INFO | Loading Trained Models...
+2026-07-24 16:15:45,301 | INFO | Models Loaded Successfully.
+2026-07-24 16:15:45,557 | INFO | [diabetes] prediction= 0, probability= 0.23597196592244382
+2026-07-24 16:21:56,987 | INFO | Dataset loaded with shape: (1025, 14)
+2026-07-24 16:21:57,243 | INFO | Train shape: (869, 13), Test shape: (156, 13)
+
+2026-07-24 16:25:05,396 | INFO | Dataset loaded with shape: (1025, 14)
+2026-07-24 16:25:05,632 | INFO | Train shape: (869, 13), Test shape: (156, 13)
+2026-07-24 16:25:09,089 | INFO | Model training completed
+2026-07-24 16:25:09,985 | INFO | Train Accuracy: 0.9010 | Recall: 0.9431 | F1: 0.9059
+2026-07-24 16:25:10,030 | INFO | Test  Accuracy: 0.8141 | Recall: 0.8966 | F1: 0.8432
+2026-07-24 16:25:10,093 | INFO | Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.86      0.90       430
+           1       0.87      0.94      0.91       439
+
+    accuracy                           0.90       869
+   macro avg       0.90      0.90      0.90       869
+weighted avg       0.90      0.90      0.90       869
+
+2026-07-24 16:25:10,114 | INFO | Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.71      0.77        69
+           1       0.80      0.90      0.84        87
+
+    accuracy                           0.81       156
+   macro avg       0.82      0.80      0.81       156
+weighted avg       0.82      0.81      0.81       156
+
+2026-07-24 16:25:10,745 | INFO | Model saved to: C:\Users\ashutosh.prakash\Documents\GitHub\Dr-ML-Multi-Disease-Predictor\model_dir\heart_disease_prediction_pipeline.joblib
+2026-07-24 16:25:10,746 | INFO | Training Script Completed
+2026-07-24 16:25:19,040 | INFO | Loading Trained Models...
+2026-07-24 16:25:23,105 | INFO | Models Loaded Successfully.
+2026-07-24 16:25:23,364 | INFO | [diabetes] prediction= 0, probability= 0.23597196592244382
+2026-07-24 16:26:25,138 | INFO | Loading Trained Models...
+2026-07-24 16:26:29,161 | INFO | Models Loaded Successfully.
+2026-07-24 16:26:29,417 | INFO | [diabetes] prediction= 0, probability= 0.23597196592244382
+2026-07-24 16:26:30,116 | INFO | [heart_disease] prediction= 1, probability= 0.7361875042820852
+2026-07-24 16:27:38,445 | INFO | Loading Trained Models...
+2026-07-24 16:27:42,556 | INFO | Models Loaded Successfully.
+2026-07-24 16:27:42,812 | INFO | [diabetes] prediction= 0, probability= 0.236
+2026-07-24 16:27:43,531 | INFO | [heart_disease] prediction= 1, probability= 0.7362
