@@ -207,3 +207,6 @@ weighted avg       0.82      0.81      0.81       156
 2026-07-24 17:59:50,289 | INFO | Models Loaded Successfully.
 2026-07-24 18:02:43,984 | INFO | [diabetes] prediction= 0, probability= 0.3213
 2026-07-24 18:02:51,260 | INFO | [heart_disease] prediction= 1, probability= 0.7707
+2026-07-31 11:39:22,320 | INFO | Loading Trained Models...
+2026-07-31 11:40:28,232 | INFO | Models Loaded Successfully.
+2026-07-31 11:40:36,122 | INFO | [diabetes] prediction= 0, probability= 0.3213
